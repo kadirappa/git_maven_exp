@@ -47,12 +47,11 @@
 http://localhost:8081/nexus/content/repositories/ARTECH/
 </url>
 </repository>
-<snapshotRepository>	
+<nexs>	
 <id>ARTECH1</id>
 <url>
 http://localhost:8081/nexus/content/repositories/ARTECH1/
 </url>
-</snapshotRepository>
+</nexr>
 </distributionManagement>
 </project>
-</project1>
